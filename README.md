@@ -20,5 +20,4 @@ Compute the img size depending on the mp3 length
 Command line code
 Clear the code
 
-test
 
